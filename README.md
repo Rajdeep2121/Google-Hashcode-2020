@@ -1,4 +1,4 @@
-<center><img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="50%"></center>
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png" width="50%">
 
 
 Score of Google Hashcode 2020 with screenshots and certificate 
