@@ -1,4 +1,6 @@
-# Google-Hashcode-2020
+<img src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png">
+
+
 Score of Google Hashcode 2020 with screenshots and certificate 
 
 Participated in Google Hashcode on 20th February, 2020.
