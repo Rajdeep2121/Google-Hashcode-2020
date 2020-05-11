@@ -3,5 +3,5 @@
 
 Score of Google Hashcode 2020 with screenshots and certificate 
 
-Participated in Google Hashcode on 20th February, 2020.
-Achieved a <b>score of 10,750,311</b> with a rank of <b>6462 in the world</b> and <b>1218 in India</b>.
+Participated in Google Hashcode on 20th February, 2020.<br>
+Achieved a <b><u>score of 10,750,311</u></b> with a rank of <b><u>6462 in the world</u></b> and <b><u>1218 in India</u></b>.
